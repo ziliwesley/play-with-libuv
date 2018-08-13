@@ -8,3 +8,9 @@ Codes written while learning `libuv`
 ```bash
 make && ./webserver
 ```
+
+
+## References
+
+- [using libuv and http parser to build a webserver HD (with captions)](https://www.youtube.com/watch?v=aLm40q7qm3w)
+- [libuv-examples](https://github.com/trevnorris/libuv-examples)
