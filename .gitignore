@@ -1,0 +1,7 @@
+# Output files
+webserver
+uv/out
+http_parser/http_parser.o
+
+# Workspace files
+.vscode
